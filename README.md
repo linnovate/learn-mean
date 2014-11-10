@@ -1,7 +1,7 @@
 learn-mean
 ==========
 
-learn mean is used for source rellevent for learn.mean.io
+learn mean is used for source relevant for learn.mean.io
 
 ## Get your angry eyebrows ready.
 MEAN.io Tutorial coming soon.
