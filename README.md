@@ -2,7 +2,7 @@ learn-mean
 ==========
 
 ## Tutorial coming soon.
-*Get your angry eyebrows ready*
+#### *Get your angry eyebrows ready*
 
 > "We'll make a MEANie out of you yet kid." -- Unknown
 
