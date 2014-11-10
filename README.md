@@ -1,7 +1,7 @@
 learn-mean
 ==========
 
-## MEAN.io Tutorial coming soon.
+## Tutorial coming soon.
 *Get your angry eyebrows ready*
 
 > "We'll make a MEANie out of you yet kid." -- Unknown
