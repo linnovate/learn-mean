@@ -7,7 +7,8 @@ learn-mean
 > "We'll make a MEANie out of you yet kid." -- Unknown
 
 ### Getting Started
-getting started
+
+It is always best to start at the beginning.
 
 ### Routing
 routing
